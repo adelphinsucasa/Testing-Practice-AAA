@@ -1,0 +1,20 @@
+{
+  "name": "testing-practice-aaa",
+  "version": "1.0.0",
+  "description": "Learning How to do teting AAA",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelphinsucasa/Testing-Practice-AAA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelphinsucasa/Testing-Practice-AAA/issues"
+  },
+  "homepage": "https://github.com/adelphinsucasa/Testing-Practice-AAA#readme"
+}
