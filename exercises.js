@@ -44,7 +44,7 @@ var Calculator = {
 }
 
 /*********************************
-             Exercise 3
+             Exercise 4
  *********************************/
 const capitalize = ((string) => {
     return string.charAt(0).toUpperCase() + string.slice(1);
